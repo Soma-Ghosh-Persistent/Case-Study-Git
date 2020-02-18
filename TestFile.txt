@@ -3,3 +3,5 @@ Hello World! Change 1
 Welcome To the World Change 2
 
 Fixed New-York to World in bug1
+
+Fix2 for bug2
