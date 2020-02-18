@@ -1,10 +1,12 @@
-Created file to rebase later ! Haha
+1 Created file to rebase later ! Haha
 
 
-Change for stashing
+2 Change for stashing
 
-Change for stashing 2
+3 Change for stashing 2
 
-updating file2
+4 updating file2
 
-Change by teammate on remote repository
+5 Change by teammate on remote repository
+
+6 Change in file from remote repo
