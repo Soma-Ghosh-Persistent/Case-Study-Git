@@ -6,3 +6,5 @@ Change for stashing
 Change for stashing 2
 
 updating file2
+
+Change by teammate on remote repository
